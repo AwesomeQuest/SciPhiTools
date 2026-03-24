@@ -1,0 +1,6 @@
+name = "SciPhiTools"
+uuid = "3f46b579-65ac-4d26-b0f7-295ab1cc19bf"
+repo = "https://github.com/AwesomeQuest/SciPhiTools.git"
+description = "A registry to store my science projects"
+
+[packages]
