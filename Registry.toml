@@ -4,3 +4,4 @@ repo = "https://github.com/AwesomeQuest/SciPhiTools.git"
 description = "A registry to store my science projects"
 
 [packages]
+c43e3543-e659-46d0-a341-79c7b8740d4a = { name = "SimpleBLE", path = "S/SimpleBLE" }
