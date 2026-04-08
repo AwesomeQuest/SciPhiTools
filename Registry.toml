@@ -4,6 +4,7 @@ repo = "https://github.com/AwesomeQuest/SciPhiTools.git"
 description = "A registry to store my science projects"
 
 [packages]
+33046a50-79e1-11e8-0aa5-110f84276e3a = { name = "LTspice", path = "L/LTspice" }
 52ec9b4c-74eb-4bfd-98fc-9000c6dcf858 = { name = "testbluetooth", path = "T/testbluetooth" }
 65d2f289-9923-54e7-9bd2-c5e9669d2a86 = { name = "SimpleBLE_jll", path = "jll/S/SimpleBLE_jll" }
 8b43ba24-085f-459e-9173-8612e6100b8e = { name = "logesp32", path = "L/logesp32" }
